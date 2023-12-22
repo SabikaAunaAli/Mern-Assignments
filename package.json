@@ -1,0 +1,14 @@
+{
+  "name": "sabika",
+  "version": "1.0.0",
+  "description": "sabika test",
+  "main": "index.js",
+  "scripts": {
+    "sabika": "node index.js"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "sabika",
+  "license": "ISC"
+}
